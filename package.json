@@ -1,0 +1,15 @@
+{
+  "name": "websocket-react-todoList",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/thatguyKacper/websocket-react-todoList.git",
+  "author": "Kacper Wójtowicz",
+  "license": "MIT",
+  "start": "nodemon server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6",
+    "socket.io": "2.2.0",
+    "uuid": "^8.3.1"
+  }
+}
